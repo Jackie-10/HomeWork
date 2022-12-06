@@ -12,7 +12,7 @@ function getLetterCase(letter ,isCap = true){
          }
       }
 }
-let arr = [3, 5, -7, 4, 10, -6, 1, 8 ,-9, 2];  
+ 
 //  ********** Capitalize ********** 
 function capitalize(str ,isCap = true){
     // isCap = true  -> return Lower Letter   
